@@ -28,7 +28,7 @@
        <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-lambda</artifactId>
-            <version>1.12.405</version>
+            <version>1.12.452</version>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
@@ -65,7 +65,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlets</artifactId>
-            <version>9.4.44.v20210927</version>
+            <version>9.4.51.v20230217</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
